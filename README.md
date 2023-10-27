@@ -2,7 +2,7 @@ Hi 👋 My name is Atul raj
 =========================
 
 Aspiring Game developer/Software engineer
------------------------------------------
+----------------------------------------
 
 * 🌍  I'm based in Bihar
 * ✉️  You can contact me at [atul.raj95109@gmail.com](mailto:atul.raj95109@gmail.com)
